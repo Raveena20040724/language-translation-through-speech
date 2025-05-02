@@ -1,2 +1,2 @@
-# language-translation-through-speech
-using HTML
+# talkalike
+language translation with voice
